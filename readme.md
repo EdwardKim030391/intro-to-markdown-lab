@@ -1,6 +1,6 @@
 # How to Write an HTML Boilerplate
 
-Every HTML document starts with a boilerplate. This serves as the foundation for your web pages, ensuring that they are structured correctly and compatible with browsers. Here's a quick guide to writing an HTML boilerplate from scratch.
+HTML document starts with a boilerplate. This serves as the foundation for your web pages, ensuring that they are structured correctly and compatible with browsers. Here's a quick guide to writing an HTML boilerplate from scratch.
 
 ## 1. What is an HTML Boilerplate?
 An HTML boilerplate is the basic structure of an HTML document. It includes essential tags and metadata to define the document's type, character encoding, and content layout.
@@ -17,7 +17,7 @@ Here's the minimal structure of an HTML document:
   <title>Your Page Title</title>
 </head>
 <body>
-  <!-- Your content goes here -->
+  
 </body>
 </html>
 ```
@@ -38,7 +38,7 @@ Comments help organize your code and are not visible to users. Add them using:
 <!-- This is a comment -->
 ```
 
-## 4. Example: A Simple Web Page
+## 4. Example
 Here's an example of a complete HTML boilerplate with content:
 
 ```html
@@ -57,4 +57,4 @@ Here's an example of a complete HTML boilerplate with content:
 ```
 
 ## 5. Additional Resources
-For more details on HTML boilerplates and best practices, visit the [MDN HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) page.
+For more details on HTML boilerplates, visit the [MDN HTML Basics.](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
