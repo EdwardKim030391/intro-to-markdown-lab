@@ -7,7 +7,7 @@ HTML document starts with a boilerplate. This serves as the foundation for your 
 HTML boilerplate is the basic structure of an HTML document. It includes essential tags and metadata to define the document's type, character encoding, and content layout.
 
 ## 2. The Basic Structure
-Here's basic structure of an HTML document:
+Here the basic structure of an HTML document:
 
 ```html
 <!DOCTYPE html>
